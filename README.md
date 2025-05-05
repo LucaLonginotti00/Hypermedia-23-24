@@ -2,7 +2,7 @@
 
 This repository contains the final tests of **"Hypermedia Applications (Web and Multimedia)"** course of **"Computer Science and Engineering"** held at Politecnico di Milano (2023/2024).
 
-**Score**: 30/30 cum Laude
+**Score**: 30L/30
 
 **Professor**: Garzotto Franca
 
