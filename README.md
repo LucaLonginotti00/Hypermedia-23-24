@@ -42,4 +42,4 @@ npm run dev -- -o
 
 ### Deliverables
 
-This is the [Design Document](https://github.com/LucaLonginotti00/Hypermedia-23-24/blob/main/website/documentation/Design%20Report.pdf) and this is the [Technology Documentation](https://github.com/LucaLonginotti00/Hypermedia-23-24/blob/main/website/documentation/Technology%20Report.pdf), a brief description of the implementation of the web project.
+This is the [Design Document](https://github.com/luca-longinotti/Hypermedia-23-24/blob/main/website/documentation/Design%20Report.pdf) and this is the [Technology Documentation](https://github.com/luca-longinotti/Hypermedia-23-24/blob/main/website/documentation/Technology%20Report.pdf), a brief description of the implementation of the web project.
