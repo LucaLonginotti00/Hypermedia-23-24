@@ -10,7 +10,7 @@ This repository contains the final tests of **"Hypermedia Applications (Web and 
 
 - [Fini Filippo](https://github.com/filippofini)
 - [Fiorentino Matteo](https://github.com/TheKingOjama)
-- [Longinotti Luca](https://github.com/LucaLonginotti)
+- [Longinotti Luca](https://github.com/LucaLonginotti00)
 - [Pessi Davide](https://github.com/DavidePessi)
 
 ## Usability Evaulation Review
