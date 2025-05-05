@@ -10,12 +10,12 @@ This repository contains the final tests of **"Hypermedia Applications (Web and 
 
 - [Fini Filippo](https://github.com/filippofini)
 - [Fiorentino Matteo](https://github.com/TheKingOjama)
-- [Longinotti Luca](https://github.com/LucaLonginotti00)
+- [Longinotti Luca](https://github.com/luca-longinotti)
 - [Pessi Davide](https://github.com/DavidePessi)
 
 ## Usability Evaulation Review
 
-This [_report_](https://github.com/LucaLonginotti00/Hypermedia-23-24/blob/main/Usability%20Project/Usabilty%20Report.pdf) shows the usability evaluation of the website [_unicef.org_](https://www.unicef.org/).\
+This [_report_](https://github.com/luca-longinotti/Hypermedia-23-24/blob/main/Usability%20Project/Usabilty%20Report.pdf) shows the usability evaluation of the website [_unicef.org_](https://www.unicef.org/).\
 Usability evaluation aims at giving the client some clues to improve the product’s quality and to fix possible issues.
 
 ## Web Technology Project
