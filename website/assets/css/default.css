@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 2vw;
+    
+    position: relative;
+}
+
+.back-button {
+    position: absolute;
+    left: 2vw;
+    top: 0.5vw;
+}
+
+.center-title{
+    text-align: center;
+    font-family: Jost;
+    font-size: 3vw;
+    font-weight: 600;
+}
+
+.title-page{
+    font-family: Jost;
+    font-size: 3vw;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0vw;
+}
+
+.title-page-1-5{
+    font-family: Jost;
+    font-size: 2.2vw;
+    font-weight: 500;
+    text-align: center;
+}
+
+.title-page-2{
+    font-family: Jost;
+    font-size: 1.8vw;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+.description{
+    font-family: Jost;
+    font-size: 2.3vh;
+    word-break: break-word;
+    text-align: center;
+}
+
+.introduction {
+    margin: 6vw;
+    font-family: Jost;
+    font-size: 2.3vh;
+    text-align: center;
+    margin-top: 0vw;
+    display: flex;  
+    align-self: center;  
+}
+
+
+
+.prev-next{
+    font-family: Jost;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 5.5vw;
+    padding-right: 5.5vw;
+    margin-bottom: 1.0vw;
+    border: 0vw;
+}
+
+.error-type {
+    font-size: 20vh;
+    font-weight: bold;
+    font-family: Jost;
+}
+
+.error-message {
+    font-size: 3vh;
+    opacity: 0.9;
+    width: fit-content;
+    align-self: center;
+    padding: 10px 20px;
+    font-family: Jost;
+
+}
+
+@media screen and (max-width: 850px) {
+    .title-page{
+        font-size: 3.5vh;
+    }
+    .title-page-1-5{
+        font-size: 2.9vh;
+    }
+    .title-page-2{
+        font-size: 2.4vh;
+    }
+    .center-title{
+        font-size: 3.5vh;
+    }
+
+    .description{
+        font-family: Jost;
+        font-size: 2.3vh;
+        word-break: break-word;
+        text-align: center;
+    }
+    .error-type {
+        font-size: 10vh;
+    }
+    .error-message {
+        font-size: 2.5vh;
+    }
+
+    .prev-next {
+        margin-top: 5vw;
+        margin-bottom: 3vh;
+    }
+}
